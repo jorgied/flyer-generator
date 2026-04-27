@@ -61,4 +61,18 @@ A las 16h frente a la catedral - Resistencia, Chaco
 A las 8h en la plaza España, Reconquista
 ```
 
+## Integrantes del equipo:
+- Carlos Sabo (CS)
+- Jorge Lencina (JL)
+
+## Estructura del proyecto:
+
+- readme (JL)
+- main.sh (CS)
+- lib/
+  * dates (CS)
+  * parser (JL)
+  * images (CS)
+- locations (CS)
+
 //TODO: Armar banco de imágenes para los fondos y crear unas pruebas.
