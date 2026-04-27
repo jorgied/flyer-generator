@@ -1,4 +1,4 @@
-# 🪧 flyer-generator
+### flyer-generator
 
 Generador de flyers para estados de WhatsApp.  
 Produce imágenes **1080×1920 px** a partir de un listado de locaciones y horarios,
@@ -60,14 +60,4 @@ Una locación por línea. Las líneas que empiezan con `#` son comentarios.
 A las 16h frente a la catedral - Resistencia, Chaco
 A las 8h en la plaza España, Reconquista
 ```
-
-## Estructura del proyecto
-
-| Archivo | Responsable | Descripción |
-|---|---|---|
-| `main.sh` | Todos | Punto de entrada, orquesta los módulos |
-| `lib/dates.sh` | Integrante A | Calcula el próximo primer sábado del mes |
-| `lib/parser.sh` | Integrante B | Lee y valida `locaciones.txt` |
-| `lib/image.sh` | Integrante C | Genera los flyers con ImageMagick |
-| `locaciones.txt` | Todos | Listado de horarios y lugares |
 
