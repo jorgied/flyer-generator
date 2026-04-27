@@ -61,4 +61,4 @@ A las 16h frente a la catedral - Resistencia, Chaco
 A las 8h en la plaza España, Reconquista
 ```
 
-//TODO: Armar banco de imágenes para los fondos.
+//TODO: Armar banco de imágenes para los fondos y crear unas pruebas.
