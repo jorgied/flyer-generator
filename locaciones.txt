@@ -1,0 +1,7 @@
+# locaciones.txt — una por línea
+# Las líneas que empiezan con # son comentarios y se ignoran
+
+A las 16h frente a la catedral - Resistencia, Chaco
+A las 8h en la plaza España, Reconquista
+A las 11h en el parque Avellaneda, Corrientes
+A las 17h en la plaza 25 de Mayo, Formosa
